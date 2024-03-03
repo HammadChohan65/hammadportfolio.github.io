@@ -466,6 +466,10 @@
   .ms-project-box p a {
     display: block;
   }
+.upwork_btn p{width:auto}
+a.upwork_btn{width:max-content}
+
+  
 }
 @media only screen and (max-width: 360px) {
   header nav a {
