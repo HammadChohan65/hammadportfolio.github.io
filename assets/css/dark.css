@@ -2029,13 +2029,13 @@ li.mixitup-control-active {
 .ms-sidebar ul li.active a {
   padding-left: 40px !important;
   color: #716fff;
-  font-size: 25px;
+  font-size: 21px;
 }
 .ms-sidebar ul li.active a:hover {
   color: #ff6f91;
 }
 .ms-sidebar ul li.active a:after {
-  width: 25px;
+  width: 21px;
 }
 
 /* End Sidebar */
