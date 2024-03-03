@@ -320,10 +320,15 @@
     width: 120px;
   }
   .ms-hero .hero-content .ms-hero-img {
-    margin: 50px 15px 30px 15px;
+    margin: 30px 15px 30px 15px;
   }
 }
 @media only screen and (max-width: 420px) {
+  .main_portfolio {
+      padding: 0px 0px;
+  }
+  .ms-hero .hero-content .ms-hero-detail .ms-hero-detail {margin-bottom:30px}
+  
   .header-logo img {
     width: 100px;
     filter: invert(1);
