@@ -320,7 +320,7 @@
     width: 120px;
   }
   .ms-hero .hero-content .ms-hero-img {
-    margin: 30px 15px 30px 15px;
+    margin: 40px 15px 30px 15px;
   }
 }
 @media only screen and (max-width: 420px) {
@@ -335,7 +335,7 @@
     display: block;
   }
   .ms-hero .hero-content {
-    margin: 30px 0 30px 0px;
+    margin: 45px 0 30px 0px;
   }
   .ms-hero .hero-content .ms-hero-detail .ms-hero-title {
     font-size: 36px;
